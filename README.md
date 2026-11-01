@@ -1,6 +1,3 @@
-# Web-Blog-Pemrograman-1
-Website biografi digital menggunakan HTML, CSS, dan JavaScript.
-
 # DOKUMENTASI PORTOFOLIO — JAMES ALDO PARLINDUNGAN
 
 Dokumentasi teknis untuk halaman portofolio pribadi James Aldo Parlindungan. Dokumen ini berfokus pada implementasi HTML, CSS, dan JavaScript yang membentuk halaman profil James, termasuk konten, tampilan visual, interaksi, animasi, dan responsivitas.
